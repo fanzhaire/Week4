@@ -1,0 +1,8 @@
+# Enter the level that you believe you have achieved in the lab exercises
+# e.g. 40%, 50%, 60%, 70%, 80%, 90%, or 100%
+Level achieved:
+
+I certify that the attached work is my own and that it was completed
+in accordance with UTS policies on plagiarism (avoidingplagiarism.uts.edu.au).  
+Student name:
+Student number:
